@@ -4,7 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mapbox/Examples/0_PrefabScenes/ZoomableMap_saved.unity
+    guid: 2c7147d54825142878b256c67aae5704
+  - enabled: 1
+    path: Assets/MyResourses/scenes/ScanScene.unity
+    guid: d2b6c57198beb7e48bd5a0398dfb5ea9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9a9083b7897a3f144a42e238f48e520a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ab5527a657fa6b34b90aef7165164227,
       type: 2}
